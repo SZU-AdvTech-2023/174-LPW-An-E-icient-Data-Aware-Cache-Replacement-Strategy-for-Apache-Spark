@@ -1,0 +1,9 @@
+@article{REPO174,
+    author = "Li, Hui and Ji, Shuping and Zhong, Hua and Wang, Wei and Xu, Lijie and Tang, Zhen and Wei, Jun and Huang, Tao",
+    journal = "Science China Information Sciences",
+    number = "1",
+    pages = "112104",
+    title = "{LPW: An Efficient Data-Aware Cache Replacement Strategy for Apache Spark}",
+    volume = "66",
+    year = "2023"
+}
